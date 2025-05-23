@@ -1,2 +1,11 @@
-# Temp-Cleaner
-TempDeleter — A fast and safe Windows temporary file cleaner. Clears Prefetch, Windows Temp, and User Temp folders with one click. Includes 3 separate modes so you can clean exactly what you want. No system harm, just boosts your PC performance. By Ensar Ware!
+# TempDeleter
+
+Simple batch scripts by Ensar Ware to clean temporary files on Windows.
+
+Includes:
+- TempDeleter.bat (full clean: Prefetch, Windows Temp, User Temp)
+- only_delete_temp.bat (only Windows Temp)
+- only_delete_user_temp.bat (only user Temp)
+- only_delete_prefetch.bat (only Prefetch)
+
+Use at your own risk. Cleans only temporary/cache files.
